@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "center-img",
+    "powerline"
+  ],
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "Terminess Nerd Font Mono",
+  "interfaceFontFamily": "SpaceMono Nerd Font Mono"
+}
