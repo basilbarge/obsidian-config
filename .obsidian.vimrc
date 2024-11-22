@@ -1,8 +1,6 @@
-unmap <Space>
-
 nmap j gj
 nmap k gk
 
-imap <Space>jk <Esc>
+imap jk <Esc>
 
 set clipboard=unnamed
